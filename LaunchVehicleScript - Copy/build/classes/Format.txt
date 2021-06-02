@@ -1,0 +1,9 @@
+Num Points: n,
+Next n lines: point #, then time after launch Ex:
+1: +00:33:32
+2: +00:43:32
+
+Date/time of launch: time Ex:
+1 Oct 2017 11:00:00
+
+Also, we will include file of lighting times.
